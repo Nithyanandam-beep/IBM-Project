@@ -67,7 +67,3 @@ Mobile app integration
 Multi-language support
 
 Advanced analytics & visualization
-
-License
-
-This project is licensed under the MIT License – feel free to modify and use it
